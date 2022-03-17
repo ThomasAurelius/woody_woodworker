@@ -13,6 +13,7 @@ body {
 	color: #222;
 	padding-bottom: 50px;
 	width: 100wv;
+	overflow-x: hidden;
 }
 
 .container {
